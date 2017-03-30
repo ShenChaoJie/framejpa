@@ -1,0 +1,6 @@
+org\frame\persistence\dao\SqlRepository.class
+org\frame\persistence\dao\SqlRepositoryFactoryBean.class
+org\frame\persistence\dao\ProvinceDao.class
+org\frame\persistence\dao\SqlRepositoryFactory.class
+org\frame\persistence\dao\SqlCustomRepository.class
+org\frame\persistence\po\TProvince.class
